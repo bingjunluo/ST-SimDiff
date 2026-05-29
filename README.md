@@ -5,6 +5,7 @@
 **ICLR 2026 (Poster)**
 
 [![Paper](https://img.shields.io/badge/Paper-ICLR%202026-blue)](https://openreview.net/forum?id=he8kYNcoMA)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.22158-b31b1b.svg?style=flat)](https://arxiv.org/abs/2605.22158)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green)](LICENSE)
 
 </div>
